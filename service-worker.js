@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/questionable-noodles/precache-manifest.7e5393a4230a975db4eefadd41ce26ec.js"
+  "/questionable-noodles/precache-manifest.75ca52eae9415034575466ec436d272c.js"
 );
 
 self.addEventListener('message', (event) => {
