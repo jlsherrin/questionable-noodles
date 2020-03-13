@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/questionable-noodles/static/css/main.4eba1363.chunk.css",
-    "main.js": "/questionable-noodles/static/js/main.b0a3214f.chunk.js",
-    "main.js.map": "/questionable-noodles/static/js/main.b0a3214f.chunk.js.map",
+    "main.js": "/questionable-noodles/static/js/main.4e5617b1.chunk.js",
+    "main.js.map": "/questionable-noodles/static/js/main.4e5617b1.chunk.js.map",
     "runtime-main.js": "/questionable-noodles/static/js/runtime-main.c6c60bbe.js",
     "runtime-main.js.map": "/questionable-noodles/static/js/runtime-main.c6c60bbe.js.map",
-    "static/js/2.44ce8b18.chunk.js": "/questionable-noodles/static/js/2.44ce8b18.chunk.js",
-    "static/js/2.44ce8b18.chunk.js.map": "/questionable-noodles/static/js/2.44ce8b18.chunk.js.map",
+    "static/js/2.c5256e74.chunk.js": "/questionable-noodles/static/js/2.c5256e74.chunk.js",
+    "static/js/2.c5256e74.chunk.js.map": "/questionable-noodles/static/js/2.c5256e74.chunk.js.map",
     "index.html": "/questionable-noodles/index.html",
-    "precache-manifest.65bf44549432d9b90052e1dbf3e8338c.js": "/questionable-noodles/precache-manifest.65bf44549432d9b90052e1dbf3e8338c.js",
+    "precache-manifest.5777101d931db6019396ae506689c9b1.js": "/questionable-noodles/precache-manifest.5777101d931db6019396ae506689c9b1.js",
     "service-worker.js": "/questionable-noodles/service-worker.js",
     "static/css/main.4eba1363.chunk.css.map": "/questionable-noodles/static/css/main.4eba1363.chunk.css.map",
-    "static/js/2.44ce8b18.chunk.js.LICENSE": "/questionable-noodles/static/js/2.44ce8b18.chunk.js.LICENSE"
+    "static/js/2.c5256e74.chunk.js.LICENSE": "/questionable-noodles/static/js/2.c5256e74.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.c6c60bbe.js",
-    "static/js/2.44ce8b18.chunk.js",
+    "static/js/2.c5256e74.chunk.js",
     "static/css/main.4eba1363.chunk.css",
-    "static/js/main.b0a3214f.chunk.js"
+    "static/js/main.4e5617b1.chunk.js"
   ]
 }
